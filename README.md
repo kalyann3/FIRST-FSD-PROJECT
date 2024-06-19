@@ -8,8 +8,6 @@
 - **Frontend**: Create a web interface for sales representatives to manage customer relationships.
 - **Functionalities**:
   - Add, and view customer records.
- 
-  - yet to created
   -  edit, delete 
   - Log interactions (calls, meetings, emails) with customers.
   - Track sales opportunities and their stages.
